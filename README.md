@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # DevOps Engineer
 
-DevOps Engineer, with 5 years of IT experience. Currenlty in process of exploring the DevOps lifestyle.
+DevOps Engineer, with 4+ years of IT experience. Currenlty in process of exploring the DevOps lifestyle.
 
 ## ⚡ Certifications
 
