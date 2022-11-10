@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 Reach me: **themohamedfaizal@gmail.com** | **[Instagram](https://www.instagram.com/themohamedfaizal/)**
+📫 Reach me: **iamfaizaljafer@gmail.com** | **[Linkedin](https://www.linkedin.com/in/iamfaizaljafer/)**
 
 
 # DevOps Engineer
 
-DevOps Engineer, with more than 5 years of IT experience. Currenlty in process of exploring the DevOps lifestyle.
+DevOps Engineer, with 5 years of IT experience. Currenlty in process of exploring the DevOps lifestyle.
 
 ## ⚡ Certifications
 
